@@ -3,8 +3,8 @@
 namespace ManuReta\indec\Tests;
 
 use ManuReta\indec\Facades\indec;
-use ManuReta\indec\ServiceProvider;
 use Orchestra\Testbench\TestCase;
+use ManuReta\indec\ServiceProvider;
 
 class indecTest extends TestCase
 {
