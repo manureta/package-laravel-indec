@@ -8,8 +8,8 @@
   "type": "library",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "Manuel Retamozo",
+      "email": "mretamozo@indec.gob.ar"
     }
   ],
   "require": {
