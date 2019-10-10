@@ -4,7 +4,7 @@ namespace ManuReta\indec;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
-    const CONFIG_PATH = __DIR__ . '/../config/indec.php';
+    const CONFIG_PATH = __DIR__.'/../config/indec.php';
 
     public function boot()
     {
